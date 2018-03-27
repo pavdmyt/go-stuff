@@ -1,5 +1,10 @@
 package main
 
+/*
+Problem 9. Special Pythagorean triplet.
+http://static.projecteuler.net/problem=9
+*/
+
 import (
 	"fmt"
 	"math"
